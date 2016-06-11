@@ -1,0 +1,9 @@
+---
+language:
+  - generic
+os: linux
+dist: trusty
+sudo: required
+script:
+  - ./build.sh
+
